@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @du4
-- 👀 I’m interested in programming, developing, engineering, automating
+- 👀 I’m interested in programming, developing, engineering, automating...
 - 🌱 I’m currently learning java, scala, docker, k8s, linux.
 - 💞️ I’m looking to collaborate on automation embedded system project, measuring systems developing.
 - 📫 How to reach me ...
